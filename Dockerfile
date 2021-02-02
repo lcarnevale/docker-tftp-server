@@ -1,6 +1,6 @@
 FROM alpine:latest
 LABEL maintainer "Lorenzo Carnevale <lcarnevale@unime.it>" 
-LABEL source ""
+LABEL source "https://github.com/lcarnevale/docker-tftp-server"
 LABEL branch "master"
 
 VOLUME /var/tftpboot /var/tftpboot
