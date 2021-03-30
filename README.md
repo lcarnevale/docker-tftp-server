@@ -1,5 +1,5 @@
 # Alpine TFTP Server on Docker Container
-This repository provides a docker container for starting a verbose TFTP server. The container uses latest version of Alpine Linux and tftp-hpa.
+Simple docker container for starting a verbose TFTP server. The container uses latest version of Alpine Linux and tftp-hpa.
 
 ## How to Build it
 ```bash
